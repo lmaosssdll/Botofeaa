@@ -11,7 +11,7 @@ from aiogram.types import (
 )
 from aiogram.filters import Command
 
-TOKEN = '7783424722:AAEkIHR-Jg5_vd6rwbvKM1sLoihlXj--Ets'  # ЗАМЕНИТЕ НА СВОЙ ТОКЕН
+TOKEN = '  # ЗАМЕНИТЕ НА СВОЙ ТОКЕН
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
